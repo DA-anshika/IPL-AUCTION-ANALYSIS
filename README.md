@@ -1,3 +1,4 @@
+[IPLPlayerAuctionData.xlsx](https://github.com/user-attachments/files/26540803/IPLPlayerAuctionData.xlsx)
 # IPL-AUCTION-ANALYSIS
 this analysis will represent the following :
 sheet1 slicer of Player, Role,Team & Year
